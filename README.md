@@ -1,0 +1,2 @@
+# learning-C
+my notes
