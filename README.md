@@ -38,10 +38,14 @@
   - Drawspace
 
 * 英文
-  - Vclass,Voicetube
+  - Vclass
   - [TOEFL Mocks](https://toeflmocks.com/)
   - [duolingo english test](https://englishtest.duolingo.com/)
   - Eslbuzz
+  - VoiceTube HERO
+  - Jella 外語星球
+  - Hahow
+  - Yotta
 
 * 攝影
   - 攝影之友
