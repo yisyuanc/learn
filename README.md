@@ -7,6 +7,20 @@
 |-------|-----|------|
 | [Runoob](https://www.runoob.com/cprogramming/c-tutorial.html)   |  [Mr. Opengate.](https://mropengate.blogspot.com/2017/08/cc-c.html)  |[Online GDB](https://www.onlinegdb.com/online_c_compiler)|
 | [Programiz](https://www.programiz.com/c-programming/examples)   |  [AndyLee](https://hackmd.io/@a110605/By6DscbVM?type=view)  |   [Coding Ground](https://www.tutorialspoint.com/index.html) |
+|-------|[Sanfoundry](https://www.sanfoundry.com/c-programming-questions-answers-variable-names-1/)|------|
+#### Python
+| 題目練習 |
+|-------|
+|[LeetCode](https://leetcode.com "刷算法題網站")|
+|[PythonTip](http://www.pythontip.com/ "適合新手練習題")|
+|[Coding Games](http://www.codinggame.com "一邊玩遊戲，一邊挑戰編程難題")|
+|[CodeCombat](http://koudashijie.com "網頁編程遊戲，運用於遊戲設計、網頁應用、APP開發")|
+|[Checkio](http://checkio.org "基於瀏覽器的遊戲，解決問題以繼續遊戲(需要登陸)")|
+|[Cyber Dojo](http://www.cyber-dojo.org "練習寫程序")|
+|[Codewars]( http://www.codewars.com)|
+
+<!--|[]("")|
+|[]("")|-->
 
 #### 各語言教學網站
   - [Codecademy](https://www.codecademy.com/)
