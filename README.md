@@ -25,6 +25,10 @@
 #### 各語言教學網站
   - [Codecademy](https://www.codecademy.com/)
   - [W3School](https://www.w3schools.com/sql/sql_wildcards.asp)
+  - [Runoob](https://www.runoob.com/)
+  - [主前端、數據分析、資料庫](https://www.w3schools.com/default.asp)
+  - [SQL教學網站](https://www.w3school.com.cn/sql/index.asp)
+
 
 
 ## 自學網站
