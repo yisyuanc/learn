@@ -35,6 +35,10 @@
  - [Tweek 一週計畫](https://tweek.so/)
  - [iLovePDF PDF編輯器](https://www.ilovepdf.com/zh-tw)
  - [iLoveIMG 影像編輯器](https://www.iloveimg.com/zh-tw)
+ - [Diagrams](https://app.diagrams.net/index.html)
+ - 心智圖
+   - Milanote
+   - [Gitmind](https://gitmind.com/app/template?lang=tw)
 
 ## 自學網站
 * 網頁設計
